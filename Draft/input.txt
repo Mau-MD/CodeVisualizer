@@ -1,0 +1,14 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int a = 3;
+    a = 4;
+    a = 5;
+r
+    int hola;
+    hola = 3;
+
+}
+
